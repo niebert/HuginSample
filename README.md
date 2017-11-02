@@ -3,7 +3,7 @@ This repository provides a sample image source for the Panorama photo stitcher -
 People that want to learn about creating [360 degree panoramas e.g. with AFrame](https://aframe.io/examples/showcase/sky/) can use this [set of sample images](https://github.com/niebert/HuginSample/archive/master.zip) to play around with [Hugin](http://hugin.sourceforge.net/download/).
 
 ## Wikiversity
-The sample image belong to the introduction in 3D Modelling on Wikiversity
+The sample image belong to the introduction in [3D Modelling on Wikiversity](https://en.wikiversity.org/wiki/3D_Modelling/Examples).
 
 ## Download OpenSource software
 You can download the free OpenSource Software Hugin for all major Operating Systems
