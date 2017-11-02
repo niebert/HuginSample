@@ -12,7 +12,7 @@ You can download the free OpenSource Software Hugin for all major Operating Syst
 * Windows.
 
 For MacOSX and Windows go to the following  website for downloading
-:: [Download Hugin](http://hugin.sourceforge.net/download/)
+:: Download [Hugin](http://hugin.sourceforge.net/download/)
 For Linux Operating Systems you can install the software with your package manager.
 
 ## Video Tutorial for Hugin
