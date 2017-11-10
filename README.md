@@ -5,6 +5,9 @@ People that want to learn about creating [360 degree panoramas e.g. with AFrame]
 ## Wikiversity
 The sample image belong to the introduction in [3D Modelling on Wikiversity](https://en.wikiversity.org/wiki/3D_Modelling/Examples).
 
+## Use generated Panorama in AFrame 360 Degree Image
+The provide example is designed as learning resource for the generation of [360 degree images in AFrame](https://aframe.io/examples/showcase/sky/)
+
 ## Download OpenSource software
 You can download the free OpenSource Software Hugin for all major Operating Systems
 * Linux,
