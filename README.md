@@ -14,6 +14,9 @@ People that want to learn about creating [360 degree panoramas e.g. with AFrame]
 * Save the panorama to your local harddrive.
 * You will see that the generated image is generated up-side-down. You can easily fix that by rotation of the output with you image editing software (e.g. [GIMP](https://www.gimp.org/downloads/))
 
+## Spherical (equirectangular) Images for AFrame
+If you want to play around with equirectangular images and view them in Aframe check the [MediaWiki Commons Images](). Please cite the authors when you used the images.
+
 ## Fixing the Panorama
 ### Fixing the Gimp Output for AFrame 360 Degree Panorama
 * If you use the panorama in AFrame scale the image in the vertical y-axis. A blank area at bottom of the Hugin output panorama should appear.
