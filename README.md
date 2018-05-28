@@ -15,7 +15,7 @@ People that want to learn about creating [360 degree panoramas e.g. with AFrame]
 * You will see that the generated image is generated up-side-down. You can easily fix that by rotation of the output with you image editing software (e.g. [GIMP](https://www.gimp.org/downloads/))
 
 ## Spherical (equirectangular) Images for AFrame
-If you want to play around with equirectangular images and view them in Aframe check the [MediaWiki Commons Images](). Please cite the authors when you used the images.
+If you want to play around with equirectangular images and view them in Aframe check the [MediaWiki Commons Images of equirectangular projections](https://commons.wikimedia.org/wiki/Category:Equirectangular_projection). Please cite the authors when you used the images.
 
 ## Fixing the Panorama
 ### Fixing the Gimp Output for AFrame 360 Degree Panorama
