@@ -1,10 +1,37 @@
 # HuginSample
-This repository provides a sample image source for the Panorama photo stitcher - [Hugin](http://hugin.sourceforge.net/download/).
+This repository provides a sample image source for the Panorama photo stitcher - [Hugin](http://hugin.sourceforge.net/download/). It was created as support files for a [Wikiversity Learning Resource about 3D Modelling](https://en.wikiversity.org/wiki/3D_Modelling).
 People that want to learn about creating [360 degree panoramas e.g. with AFrame](https://aframe.io/examples/showcase/sky/) can use this [set of sample images](https://github.com/niebert/HuginSample/archive/master.zip) to play around with [Hugin](http://hugin.sourceforge.net/download/).
 * Create a panorama with Hugin
 * Fix missing areas in the panorama and correct the projection with [GIMP](https://www.gimp.org/downloads/)
 
- See the [Final result of your efforts in AFrame](https://niebert.github.io/HuginSample)
+See the [Final result of your efforts in AFrame](https://niebert.github.io/HuginSample)
+
+## Intermediate Steps fpr Creating an Equirectangular Image
+* Use the images in `durlach_saumarkt` of this repository to play around with Hugin.
+* **([Missing Ground](https://niebert.github.io/HuginSample/index_missing_ground.html))** You might end up with an unmatched ground like this, because you missed to take images for the ground underneath yourself.
+* **[Final](https://niebert.github.io/HuginSample/durlach_saumarkt.html)**
+
+## Combine with Aframe Object
+The equirectangular images in [AFrame](https://aframe.io) are the first step for the background.
+You can also add geometrical elements into the scene.
+* See [Geometrical Objects in a 360-Degree Image](https://niebert.github.io/HuginSample/cloud_grass_plam.html)
+* [Crystal Lattice in AFrame](https://niebert.github.io/HuginSample/crystal_lattice_aframe.html)
+* [Crystal Lattice with an equirectangular background image](https://niebert.github.io/HuginSample/crystal_lattice_sky.html)
+
+## Examples of Equirectangular Images - AFrame
+Equirectangular images can be used in [AFrame](https://aframe.io) for a 360-degree panorama view.
+* [**AFrame Example** - Puy de Sancy](https://aframe.io/examples/showcase/sky/)
+* [**Rieselfelder Münster**](https://niebert.github.io/HuginSample/rieselfelder1.html) - [Equirectangular Image](https://niebert.github.io/HuginSample/img/rhein1_rodenkirchen.jpg) - image is licensed under the [Creative Commons](https://en.wikipedia.org/wiki/en:Creative_Commons) [Attribution-Share Alike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
+* [**Rheinauen - Cologne 1**](https://niebert.github.io/HuginSample/rhein1_rodenkirchen.html) - [Equirectangular Image](https://niebert.github.io/HuginSample/img/rhein1_rodenkirchen.jpg) - image is licensed under the [Creative Commons](https://en.wikipedia.org/wiki/en:Creative_Commons) [Attribution-Share Alike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
+* [**Rheinauen - Cologne 2**](https://niebert.github.io/HuginSample/rhein2_rodenkirchen.html) - [Equirectangular Image](https://niebert.github.io/HuginSample/img/rhein1_rodenkirchen.jpg) - image is licensed under the [Creative Commons](https://en.wikipedia.org/wiki/en:Creative_Commons) [Attribution-Share Alike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
+* [**Rheinauen - Cologne 3**](https://niebert.github.io/HuginSample/rhein3_rodenkirchen.html) - [Equirectangular Image](https://niebert.github.io/HuginSample/img/rhein1_rodenkirchen.jpg) - image is licensed under the [Creative Commons](https://en.wikipedia.org/wiki/en:Creative_Commons) [Attribution-Share Alike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
+* [**Rheinauen - Cologne 4**](https://niebert.github.io/HuginSample/rhein4_rodenkirchen.html) - [Equirectangular Image](https://niebert.github.io/HuginSample/img/rhein1_rodenkirchen.jpg) - image is licensed under the [Creative Commons](https://en.wikipedia.org/wiki/en:Creative_Commons) [Attribution-Share Alike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
+* [**Foschungsanlage Eusserthal**](https://niebert.github.io/HuginSample/eusserthal.html)
+* [**Jelgava Palace**](https://niebert.github.io/HuginSample/Jelgavas_pils.html) - [WikiCommons Source File](https://commons.wikimedia.org/wiki/File:Jelgavas_pils.jpg) - Uldins Bardins (2011) - image is licensed under the [Creative Commons](https://en.wikipedia.org/wiki/en:Creative_Commons) [Attribution-Share Alike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/deed.en). [GeoLoc](https://commons.wikimedia.org/wiki/File:Jelgavas_pils.jpg#/maplink/0)
+* [**Aldara Park**](https://niebert.github.io/HuginSample/Aldara_parks.html) - [WikiCommons Source File](https://commons.wikimedia.org/wiki/File:Aldara_parks.jpg) - Uldins Bardins (2011) image is licensed under the [Creative Commons](https://en.wikipedia.org/wiki/en:Creative_Commons) [Attribution-Share Alike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/deed.en). [GeoLoc](https://commons.wikimedia.org/wiki/File:Aldara_parks.jpg#/maplink/0)
+
+## 3D Modelling. AR and  Aframe Scenes
+If you want to go further with [AFrame aAugmented Reality see Wikiversity 3D Modelling]() or start creating your Aframe scene with equirectangular images with [JSON3D4Aframe](https://github.com/niebert/JSON3D4Aframe).
 
 ## Hugin
 * Download [Hugin](http://hugin.sourceforge.net/download/)
