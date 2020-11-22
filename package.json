@@ -1,0 +1,33 @@
+{
+  "name": "huginsample",
+  "version": "1.0.0",
+  "description": "Hugin 360 degree images embedded in AFrame aky-tag as web-based envrionment for a learning resource on 3D modelling and real world labs in Wikiversity",
+  "main": "bin/index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "test/walker4folder.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niebert/HuginSample.git"
+  },
+  "keywords": [
+    "Hugin",
+    "Examples",
+    "Aframe",
+    "360",
+    "degree",
+    "demos"
+  ],
+  "author": "Engelbert Niehaus",
+  "license": "SEE LICENSE IN <filename>",
+  "bugs": {
+    "url": "https://github.com/niebert/HuginSample/issues"
+  },
+  "homepage": "https://github.com/niebert/HuginSample#readme",
+  "dependencies": {
+    "walker4folder": "^1.0.2"
+  }
+}
