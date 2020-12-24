@@ -21,6 +21,7 @@ You can also add geometrical elements into the scene.
 ## Examples of Equirectangular Images - AFrame
 Equirectangular images can be used in [AFrame](https://aframe.io) for a 360-degree panorama view.
 * [**AFrame Example** - Puy de Sancy](https://aframe.io/examples/showcase/sky/)
+* [**Durlach - Saumarkt** - Karlsruhe, Germany](https://niebert.github.io/HuginSample/)
 * [**Rieselfelder Münster**](https://niebert.github.io/HuginSample/rieselfelder1.html) - [Equirectangular Image](https://niebert.github.io/HuginSample/img/rhein1_rodenkirchen.jpg) - image is licensed under the [Creative Commons](https://en.wikipedia.org/wiki/en:Creative_Commons) [Attribution-Share Alike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
 * [**Rheinauen - Cologne 1**](https://niebert.github.io/HuginSample/rhein1_rodenkirchen.html) - [Equirectangular Image](https://niebert.github.io/HuginSample/img/rhein1_rodenkirchen.jpg) - image is licensed under the [Creative Commons](https://en.wikipedia.org/wiki/en:Creative_Commons) [Attribution-Share Alike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
 * [**Rheinauen - Cologne 2**](https://niebert.github.io/HuginSample/rhein2_rodenkirchen.html) - [Equirectangular Image](https://niebert.github.io/HuginSample/img/rhein1_rodenkirchen.jpg) - image is licensed under the [Creative Commons](https://en.wikipedia.org/wiki/en:Creative_Commons) [Attribution-Share Alike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
