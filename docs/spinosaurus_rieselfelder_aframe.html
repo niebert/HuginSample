@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Spinosaurus - Rieselfelder - Aframe 3D</title>
+  <script src="js/aframe.js"></script>
+</head>
+<body>
+  <a-scene inspector="" keyboard-shortcuts="" screenshot="" vr-mode-ui="" device-orientation-permission-ui="" visible="">
+    <!-- Load the 3D model -->
+    <a-assets>
+      <a-asset-item id="my3dmodel" src="model3d/primal_carnage_spinosaurus_small.glb"></a-asset-item>
+      <img id="sky" src="img/rieselfelder1.jpg">
+    </a-assets>
+
+    <!-- Add the 3D model to the scene -->
+    <a-entity gltf-model="#my3dmodel" scale="" position="1.12812 0 -11.50166" rotation="0 100 0"></a-entity>
+
+    <!-- Add some basic lighting -->
+    <a-light type="ambient" color="#FFF" light=""></a-light>
+    <a-light type="point" color="#fff" position="0 2 0" light=""></a-light>
+	<a-sky src="#sky"></a-sky>
+    <!-- Add a camera -->
+    <a-camera position="-2.605466530698633 1.6 -9.335198258886683" camera="" rotation="-8.594366926962346 230.90199143772168 0" look-controls="" wasd-controls="" data-aframe-inspector-original-camera=""></a-camera>
+  <div class="a-loader-title" style="display: none;">Primal Carnal Spinosaurus</div></a-scene>
+</body>
+</html>
