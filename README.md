@@ -19,7 +19,7 @@ You can also add geometrical elements into the scene.
 * [Crystal Lattice with an equirectangular background image](https://niebert.github.io/HuginSample/crystal_lattice_sky.html)
 * [Dinosaur 3D model with an equirectangular background image](https://niebert.github.io/HuginSample/spinosaurus_rieselfelder_aframe.html)
 ![3D Model in Aframe Screne](docs/img/rieselfelder_glb_dinosaur_aframe.png)
-
+* The dinosaur (Spinosaurus) is 3D model called "primal carnage spinosaurus" (URL: https://skfb.ly/pswyN) created by `seth the yutyrannus`. The 3D model is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 ## Examples of Equirectangular Images - AFrame
 Equirectangular images can be used in [AFrame](https://aframe.io) for a 360-degree panorama view.
 * [**AFrame Example** - Puy de Sancy](https://aframe.io/examples/showcase/sky/)
