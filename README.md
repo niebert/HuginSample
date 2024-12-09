@@ -17,7 +17,7 @@ You can also add geometrical elements into the scene.
 * See [Geometrical Objects in a 360-Degree Image](https://niebert.github.io/HuginSample/cloud_grass_plam.html)
 * [Crystal Lattice in AFrame](https://niebert.github.io/HuginSample/crystal_lattice_aframe.html)
 * [Crystal Lattice with an equirectangular background image](https://niebert.github.io/HuginSample/crystal_lattice_sky.html)
-*
+* [Dinosaur 3D model with an equirectangular background image](https://niebert.github.io/HuginSample/spinosaurus_rieselfelder_aframe.html)
 ![3D Model in Aframe Screne](docs/img/rieselfelder_glb_dinosaur_aframe.png)
 
 ## Examples of Equirectangular Images - AFrame
