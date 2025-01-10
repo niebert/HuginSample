@@ -37,7 +37,7 @@ Equirectangular images can be used in [AFrame](https://aframe.io) for a 360-degr
 If you want to go further you can explore
 *  [AFrame and Augmented Reality](https://github.com/AR-js-org/AR.js) with the [AR.js Documentation](https://ar-js-org.github.io/AR.js-Docs/) including Geolocation based Augmented Reality with AFrame,
 * learn about [3D Modelling in Wikiversity](https://en.wikiversity.org/wiki/3D_Modelling)
-* start creating your Aframe scene with equirectangular images with [JSON3D4Aframe](https://github.com/niebert/JSON3D4Aframe).
+* start [creating your Aframe scene](https://niebert.github.io/JSON3d4Aframe) with equirectangular images with [JSON3D4Aframe](https://github.com/niebert/JSON3D4Aframe).
 * learn about [tracking objects with Javascript](https://trackingjs.com)
 
 ## Hugin
