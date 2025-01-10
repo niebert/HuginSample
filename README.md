@@ -39,6 +39,7 @@ If you want to go further you can explore
 * learn about [3D Modelling in Wikiversity](https://en.wikiversity.org/wiki/3D_Modelling)
 * start [creating your Aframe scene](https://niebert.github.io/JSON3d4Aframe) with equirectangular images with [JSON3D4Aframe](https://github.com/niebert/JSON3D4Aframe).
 * learn about [tracking objects with Javascript](https://trackingjs.com)
+* [Aframe Navigation](https://niebert.github.io/aframe360navigation/) with Equirectangular images as `a-sky`-tag - URL: https://niebert.github.io/aframe360navigation/
 
 ## Hugin
 * Download [Hugin](http://hugin.sourceforge.net/download/)
