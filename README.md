@@ -33,14 +33,14 @@ Equirectangular images can be used in [AFrame](https://aframe.io) for a 360-degr
 * [**Jelgava Palace**](https://niebert.github.io/HuginSample/Jelgavas_pils.html) - [WikiCommons Source File](https://commons.wikimedia.org/wiki/File:Jelgavas_pils.jpg) - Uldins Bardins (2011) - image is licensed under the [Creative Commons](https://en.wikipedia.org/wiki/en:Creative_Commons) [Attribution-Share Alike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/deed.en). [GeoLoc](https://commons.wikimedia.org/wiki/File:Jelgavas_pils.jpg#/maplink/0)
 * [**Aldara Park**](https://niebert.github.io/HuginSample/Aldara_parks.html) - [WikiCommons Source File](https://commons.wikimedia.org/wiki/File:Aldara_parks.jpg) - Uldins Bardins (2011) image is licensed under the [Creative Commons](https://en.wikipedia.org/wiki/en:Creative_Commons) [Attribution-Share Alike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/deed.en). [GeoLoc](https://commons.wikimedia.org/wiki/File:Aldara_parks.jpg#/maplink/0)
 
-## 3D Modelling. AR and Aframe Scenes
+## 3D Modelling - AR and Aframe Scenes
 If you want to go further you can explore
 *  [AFrame and Augmented Reality](https://github.com/AR-js-org/AR.js) with the [AR.js Documentation](https://ar-js-org.github.io/AR.js-Docs/) including Geolocation based Augmented Reality with AFrame,
 * learn about [3D Modelling in Wikiversity](https://en.wikiversity.org/wiki/3D_Modelling)
 * start [creating your Aframe scene](https://niebert.github.io/JSON3d4Aframe) with equirectangular images with [JSON3D4Aframe](https://github.com/niebert/JSON3D4Aframe).
 * learn about [tracking objects with Javascript](https://trackingjs.com)
 * [Aframe Navigation](https://niebert.github.io/aframe360navigation/) with Equirectangular images as `a-sky`-tag - URL: https://niebert.github.io/aframe360navigation/
-
+* [AR-Studio](https://ar-js-org.github.io/studio/) for AR.js - URL: https://ar-js-org.github.io/studio/ to create - AR - examples that use can be extended with equirectangular images and spatial allocation of 3D models.
 ## Hugin
 * Download [Hugin](http://hugin.sourceforge.net/download/)
 * Install Hugin on your Operating System
