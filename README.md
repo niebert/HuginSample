@@ -41,6 +41,7 @@ If you want to go further you can explore
 * learn about [tracking objects with Javascript](https://trackingjs.com)
 * [Aframe Navigation](https://niebert.github.io/aframe360navigation/) with Equirectangular images as `a-sky`-tag - URL: https://niebert.github.io/aframe360navigation/
 * [AR-Studio](https://ar-js-org.github.io/studio/) for AR.js - URL: https://ar-js-org.github.io/studio/ to create - AR - examples that use can be extended with equirectangular images and spatial allocation of 3D models.
+* [Dinosaur on Hiro-Marker](https://niebert.github.io/AR-Examples/spinosaurus_hiro_ar.html) - [AR-Examples - Fork of Lee Stemkoskis repository](https://niebert.github.io/AR-Examples/)
 ## Hugin
 * Download [Hugin](http://hugin.sourceforge.net/download/)
 * Install Hugin on your Operating System
