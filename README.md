@@ -92,5 +92,9 @@ For Linux Operating Systems you can install the software with your package manag
 * [Hugin Part 1 - Overview and Stitching 3 Photos](https://www.youtube.com/watch?v=bGF4d_jX8K0) by Jamie Hamel-Smith - Youtube 2017/02/07
 * [Hugin Part 2 - Hugin Part 2 - De-Fishing an Image and Straightening a Pattern](https://www.youtube.com/watch?v=bGF4d_jX8K0) by Jamie Hamel-Smith - Youtube 2017/02/07
 
+## See also
+* [A-Frame-Examples](https://github.com/niebert/A-Frame-Examples) with [Online-Demo](https://niebert.github.io/A-Frame-Examples) is a modified [fork](https://stemkoski.github.io/A-Frame-Examples/) from [Lee Stemkoski](https://github.com/stemkoski).
+* [AR-Examples](https://niebert.github.io/AR-Examples/) is a modified [fork](https://stemkoski.github.io/AR-Examples/) from [Lee Stemkoski](https://github.com/stemkoski).
+
 ## Acknowledgement
 Thank you to [the developers of Hugin](http://hugin.sourceforge.net/community/authors/) for providing this advanced panorama stitching tool for all major operating systems as OpenSource software.
