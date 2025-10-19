@@ -32,6 +32,8 @@ Equirectangular images can be used in [AFrame](https://aframe.io) for a 360-degr
 * [**Foschungsanlage Eusserthal**](https://niebert.github.io/HuginSample/eusserthal.html)
 * [**Jelgava Palace**](https://niebert.github.io/HuginSample/Jelgavas_pils.html) - [WikiCommons Source File](https://commons.wikimedia.org/wiki/File:Jelgavas_pils.jpg) - Uldins Bardins (2011) - image is licensed under the [Creative Commons](https://en.wikipedia.org/wiki/en:Creative_Commons) [Attribution-Share Alike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/deed.en). [GeoLoc](https://commons.wikimedia.org/wiki/File:Jelgavas_pils.jpg#/maplink/0)
 * [**Aldara Park**](https://niebert.github.io/HuginSample/Aldara_parks.html) - [WikiCommons Source File](https://commons.wikimedia.org/wiki/File:Aldara_parks.jpg) - Uldins Bardins (2011) image is licensed under the [Creative Commons](https://en.wikipedia.org/wiki/en:Creative_Commons) [Attribution-Share Alike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/deed.en). [GeoLoc](https://commons.wikimedia.org/wiki/File:Aldara_parks.jpg#/maplink/0)
+* [**Texel Beach - Netherlands**](https://niebert.github.io/HuginSample/texel_netherlands_beach.html) - [WikiCommons Source File](https://commons.wikimedia.org/wiki/File:Texel_netherland_beach_equirectangular.png) - Bert Niehaus (2025) image is licensed under the [Creative Commons](https://en.wikipedia.org/wiki/en:Creative_Commons) [Attribution-Share Alike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/deed.en). [GeoLoc](https://commons.wikimedia.org/wiki/File:Texel_netherland_beach_equirectangular.png#/maplink/0)
+
 
 ## 3D Modelling - AR and Aframe Scenes
 If you want to go further you can explore
